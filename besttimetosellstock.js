@@ -29,8 +29,10 @@ let min = Infinity
 let max = 0
 
 for (let i = 0; i < stocks.length; i++) {
+    //Update the min
     if (stocks[i] < min) {
         min = stocks[i]
+    //If the min cannot be updated, update the max
     } else if (stocks[i] - min > max) {
         max = stocks[i] - min
     }
