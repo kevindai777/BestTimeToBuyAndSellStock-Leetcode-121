@@ -5,4 +5,4 @@ Leetcode Question 121 (Easy)
 Techniques Used in Question:
 Two-Pointers
 
-[Link to Question](https://leetcode.com/problems/add-two-numbers/)
+[Link to Question](https://leetcode.com/problems/best-time-to-sell-stock/)
