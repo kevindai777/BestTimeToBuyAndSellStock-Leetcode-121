@@ -1,4 +1,4 @@
-# BestTimeToSellStock-Leetcode-121
+# BestTimeToBuyAndSellStock-Leetcode-121
 
 Leetcode Question 121 (Easy)
 
